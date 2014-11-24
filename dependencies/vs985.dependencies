@@ -1,6 +1,6 @@
 [
  {
-   "account": "tucstwo",
+   "account": "Cyanogenmod",
    "repository": "android_device_lge_vs985",
    "target_path": "device/lge/vs985",
    "revision": "cm-11.0"
